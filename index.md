@@ -200,9 +200,9 @@ by    [David Bygott](https://www.flickr.com/photos/davidbygott).*
 [issues]:         https://github.com/emacsmirror/p/issues/new
 [`epkg.el`]:      https://github.com/emacscollective/epkg
 [`borg.el`]:      https://github.com/emacscollective/borg
-[stats]:          /stats/
-[not-mirror]:     /stats/compare.html#orgdc097a7
-[not-melpa]:      /stats/melpa.html
+[stats]:          https://stats.emacsmirror.org/mirror
+[not-mirror]:     https://stats.emacsmirror.org/mirror/compare.html
+[not-melpa]:      https://stats.emacsmirror.org/mirror/melpa.html
 
 [20160517]: https://emacsair.me/2016/05/17/assimilate-emacs-packages-as-git-submodules
 

@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Documentation
+title: Manuals
 ---
 
-* [Epkg User Manual](/manual/epkg)
-  ([single page](/manual/epkg.html),
-  [pdf](/manual/epkg.pdf))
-* [Borg User Manual](/manual/borg)
-  ([single page](/manual/borg.html),
-  [pdf](/manual/borg.pdf))
+- [Epkg User Manual](./epkg) ([pdf](./epkg/epkg.pdf))
+- [Borg User Manual](./borg) ([pdf](./borg/borg.pdf))
