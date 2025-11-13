@@ -1,6 +1,6 @@
 ## Configuration #####################################################
 
-DOMAIN         ?= emacsmirror.net
+DOMAIN         ?= emacsmirror.org
 PUBLIC         ?= https://$(DOMAIN)
 CFRONT_DIST    ?= E1IXJGPIOM4EUW
 PUBLISH_BUCKET ?= s3://$(DOMAIN)

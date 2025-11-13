@@ -7,10 +7,10 @@ The [Emacscollective][c] is part of the [Emacsmirror] project.
 
 TODO Introduce the Emacscollective in its own right.
 
-[emacsmirror]:     https://emacsmirror.net/
-[emacsattic]:      https://emacsmirror.net/attic/
-[emacsorphanage]:  https://emacsmirror.net/orphanage/
-[emacscollective]: https://emacsmirror.net/collective/
+[emacsmirror]:     https://emacsmirror.org/
+[emacsattic]:      https://emacsmirror.org/attic/
+[emacsorphanage]:  https://emacsmirror.org/orphanage/
+[emacscollective]: https://emacsmirror.org/collective/
 [m]:               https://github.com/emacsmirror/
 [a]:               https://github.com/emacsattic/
 [o]:               https://github.com/emacsorphanage/

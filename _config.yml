@@ -1,7 +1,7 @@
 title: Emacsmirror
 author: Jonas Bernoulli
 email: jonas@bernoul.li
-url: https://emacsmirror.net
+url: https://emacsmirror.org
 
 baseurl: ""
 permalink: /:year/:month/:day/:title/index.html
